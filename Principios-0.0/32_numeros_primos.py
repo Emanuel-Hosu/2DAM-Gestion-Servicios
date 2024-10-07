@@ -12,7 +12,3 @@ for i in range(1, num):
         
         
 print(lista_primos)
-
-#resultado = n / 2
-#resultado % 2 = 0
-#no es primo
